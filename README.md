@@ -21,7 +21,7 @@ Projeyi kendi ortamınızda çalıştırabilirsiniz:
 
 ### 1. Depoyu Klonlayın
 ```bash
-git clone [https://github.com/kullanici-adi/ShieldX.git](https://github.com/kullanici-adi/ShieldX.git)
+git clone https://github.com/aezzs61/ShieldX.git
 cd ShieldX
 ```
 
