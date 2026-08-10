@@ -2,7 +2,7 @@
 
 **ShieldX**, sahte aramaları (özellikle WhatsApp `+145`, `+234` vb. sanal numaralar), görüntülü şantaj tuzaklarını, cevapsız çağrıları (Wangiri) ve bahis/oltama SMS'lerini tespit eden açık kaynaklı bir güvenlik sistemidir.
 
-🌐 **Canlı Web Sitesi:** [https://shieldx.onrender.com](https://shieldx.onrender.com)
+🌐 **Canlı Web Sitesi:** [https://shieldx-h7nw.onrender.com](https://shieldx-h7nw.onrender.com)
 
 ---
 
